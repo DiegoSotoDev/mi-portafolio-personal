@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/mi-portafolio-personal/static/css/main.2fb451af.css",
+    "main.js": "/mi-portafolio-personal/static/js/main.55ffdd2f.js",
+    "static/media/portada_tarjetas.png": "/mi-portafolio-personal/static/media/portada_tarjetas.9bee361d766f6d51c47b.png",
+    "static/media/fondo_2.png": "/mi-portafolio-personal/static/media/fondo_2.3951a003c77ba6b5635c.png",
+    "static/media/nodejs.png": "/mi-portafolio-personal/static/media/nodejs.2042b9b3124727a968fb.png",
+    "static/media/react.png": "/mi-portafolio-personal/static/media/react.300b51f2917b4ad427a3.png",
+    "static/media/logo1.png": "/mi-portafolio-personal/static/media/logo1.7744d41cdadde27ba6be.png",
+    "static/media/css.png": "/mi-portafolio-personal/static/media/css.615b113ea8f6fe4ddbdf.png",
+    "static/media/javascript.png": "/mi-portafolio-personal/static/media/javascript.bec1310ac1b962af5f57.png",
+    "static/media/html.png": "/mi-portafolio-personal/static/media/html.f69d6bfcf273fbdd49e3.png",
+    "static/media/mysql.png": "/mi-portafolio-personal/static/media/mysql.43dc9d7885f4f49c3b33.png",
+    "static/media/php.png": "/mi-portafolio-personal/static/media/php.e0da6b178c0903e02db9.png",
+    "static/media/scss.svg": "/mi-portafolio-personal/static/media/scss.e70d224b4c12223310f6939d72e81c3a.svg",
+    "index.html": "/mi-portafolio-personal/index.html",
+    "main.2fb451af.css.map": "/mi-portafolio-personal/static/css/main.2fb451af.css.map",
+    "main.55ffdd2f.js.map": "/mi-portafolio-personal/static/js/main.55ffdd2f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2fb451af.css",
+    "static/js/main.55ffdd2f.js"
+  ]
+}
