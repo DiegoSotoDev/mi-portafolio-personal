@@ -1,0 +1,30 @@
+.Banner {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 4rem 2rem;
+  padding-top: 80px;
+  min-height: 80vh; // Ocupa la mayor parte de la pantalla
+  color: #fff;
+  background-color: rgba(0, 0, 0, 0.5);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+
+  .logo {
+    width: 200px; // Tamaño del logo más grande
+    height: auto;
+    
+
+  }
+
+  .title {
+    font-size: 3rem;
+    margin: 1rem 0 0.5rem;
+  }
+
+  .subtitle {
+    font-size: 1.5rem;
+    font-weight: 300;
+  }
+}
