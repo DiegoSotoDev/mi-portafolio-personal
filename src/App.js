@@ -7,15 +7,13 @@ import Footer from './components/Footer/Footer';
 
 function App() {
   return (
-    <Router>
-      <Header />
-      <main style={{ flexGrow: 1 }} >
-        <Routes>
-          <Route path="/" element={<Home />} />
-        </Routes>
-      </main>
-      {<Footer />}
-    </Router>
+    <>
+    <Header />
+    <main>
+      <Home />
+    </main>
+    <Footer />
+    </>
   );
 }
 
